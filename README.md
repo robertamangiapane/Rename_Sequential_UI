@@ -1,2 +1,3 @@
 # Rename_Sequential_UI
-An example of scripting Python for Maya
+
+A simple UI, which works with a selection and enables users to rename sequentially each objects selected.
